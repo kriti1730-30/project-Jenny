@@ -21,4 +21,3 @@ Jenny is ideal for learning environments, experimentation, or anyone interested 
 
 ![Screenshot 2025-06-15 120452](https://github.com/user-attachments/assets/427c734b-163d-4ba2-a9c2-92e67eae4bd2)
 ![Screenshot 2025-06-15 120510](https://github.com/user-attachments/assets/1bb77a65-7a2f-46c3-937d-d5c7008a10f4)
-![Screenshot 2025-06-15 120510](https://github.com/user-attachments/assets/96b6d4ba-3a85-47d3-b777-6bcda132622e)
