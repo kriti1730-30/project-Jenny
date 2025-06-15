@@ -12,9 +12,13 @@ A C++ interpreter handles the execution of a clean, minimal programming language
 -Time Travel Debugging
 Jenny includes a unique undo feature that allows users to revert previous variable assignments. This "time travel" capability enhances learning by helping users explore the effect of changes step by step.
 
--![Screenshot 2025-06-15 120303](https://github.com/user-attachments/assets/87113412-e33d-4db3-8f29-75d4d26d1e5e)
+
 Version Control for Sessions
 Each code session tracks the state of variables and their changes, providing a lightweight version control mechanism. This helps users understand how their program evolves over time and makes experimentation safer.
 
 Jenny is ideal for learning environments, experimentation, or anyone interested in understanding how programming languages and interpreters work—from the inside out. It creates a safe, guided space where users can iterate, experiment, and grow their programming confidence.
+-![Screenshot 2025-06-15 120303](https://github.com/user-attachments/assets/87113412-e33d-4db3-8f29-75d4d26d1e5e)
 
+![Screenshot 2025-06-15 120452](https://github.com/user-attachments/assets/427c734b-163d-4ba2-a9c2-92e67eae4bd2)
+![Screenshot 2025-06-15 120510](https://github.com/user-attachments/assets/1bb77a65-7a2f-46c3-937d-d5c7008a10f4)
+![Screenshot 2025-06-15 120510](https://github.com/user-attachments/assets/96b6d4ba-3a85-47d3-b777-6bcda132622e)
